@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# Model Files (Optional)
+*.pkl
+
+# Large Data Files
+*.csv
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
