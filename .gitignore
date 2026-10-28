@@ -37,3 +37,6 @@ Thumbs.db
 
 # Temporary Files
 *.tmp
+!data/sample_churn.csv
+.env*
+*.env
